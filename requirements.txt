@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+openai
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-openai
+llama-index-vector-stores-qdrant
+qdrant-client
+pypdf
+sentence-transformers 
+llama-index-agent-openai
+langchain
+streamlit
+pydantic          
+google-api-python-client 
+requests          
+
